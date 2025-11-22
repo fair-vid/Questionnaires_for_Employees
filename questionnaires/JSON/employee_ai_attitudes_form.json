@@ -1,0 +1,254 @@
+{
+  "title": "Employee Attitudes Toward AI in Student Application Processing",
+  "description": "A short 5–10 minute questionnaire to understand employee attitudes toward AI, including future AI-based monitoring of work quality.",
+  "items": [
+    {
+      "title": "How long have you worked in student admissions or application processing?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "< 1 year"},
+              {"value": "1–3 years"},
+              {"value": "3–5 years"},
+              {"value": "> 5 years"}
+            ]
+          },
+          "required": true
+        }
+      }
+    },
+    {
+      "title": "Which tasks do you perform most frequently?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "CHECKBOX",
+            "options": [
+              {"value": "Application completeness check"},
+              {"value": "Document verification"},
+              {"value": "Communication with applicants"},
+              {"value": "Manual evaluation of applications"},
+              {"value": "Video interview review"},
+              {"value": "Preparing recommendations for decisions"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Do you currently use any AI-based tools in your work?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Yes"},
+              {"value": "No"},
+              {"value": "Not sure"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "How comfortable are you using AI tools?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Very comfortable"},
+              {"value": "Somewhat comfortable"},
+              {"value": "Neutral"},
+              {"value": "Somewhat uncomfortable"},
+              {"value": "Very uncomfortable"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "How much do you trust AI in helping with application evaluation?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Strongly trust"},
+              {"value": "Somewhat trust"},
+              {"value": "Neutral"},
+              {"value": "Somewhat distrust"},
+              {"value": "Strongly distrust"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Which benefits of AI do you agree with?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "CHECKBOX",
+            "options": [
+              {"value": "Faster processing"},
+              {"value": "More consistent evaluations"},
+              {"value": "Less human error"},
+              {"value": "Detecting fraud or document issues"},
+              {"value": "Reducing workload"},
+              {"value": "I do not see benefits"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Which risks concern you?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "CHECKBOX",
+            "options": [
+              {"value": "Bias or unfair decisions"},
+              {"value": "Misinterpretation of documents or interviews"},
+              {"value": "Errors that are hard to detect"},
+              {"value": "Reduced control or autonomy"},
+              {"value": "Monitoring of employee decisions"},
+              {"value": "No concerns"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "How do you feel about AI being used in the future to monitor employee actions (e.g., decisions, time spent, consistency)?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Very positive"},
+              {"value": "Somewhat positive"},
+              {"value": "Neutral"},
+              {"value": "Somewhat negative"},
+              {"value": "Very negative"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "How acceptable is it for AI to evaluate the quality or fairness of employee decisions?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Completely acceptable"},
+              {"value": "Acceptable in some cases"},
+              {"value": "Neutral"},
+              {"value": "Mostly unacceptable"},
+              {"value": "Completely unacceptable"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Which concerns do you have regarding AI monitoring employees?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "CHECKBOX",
+            "options": [
+              {"value": "Loss of autonomy"},
+              {"value": "Feeling of surveillance"},
+              {"value": "Fear of unfair evaluation"},
+              {"value": "Misunderstanding context or exceptions"},
+              {"value": "Pressure or stress at work"},
+              {"value": "No concerns"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Which potential advantages do you see in AI monitoring?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "CHECKBOX",
+            "options": [
+              {"value": "Higher consistency"},
+              {"value": "Evidence-based decisions"},
+              {"value": "Reduced risk of human mistakes"},
+              {"value": "Better support for complex cases"},
+              {"value": "Improving fairness"},
+              {"value": "None"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "Do you believe AI should:",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "Assist employees but never make decisions"},
+              {"value": "Share decisions with employees equally"},
+              {"value": "Make decisions but require employee confirmation"},
+              {"value": "Fully automate decisions"},
+              {"value": "Not be used in admissions"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "How much training would you need to feel confident working with future AI systems?",
+      "questionItem": {
+        "question": {
+          "choiceQuestion": {
+            "type": "RADIO",
+            "options": [
+              {"value": "No training"},
+              {"value": "A little training"},
+              {"value": "Moderate training"},
+              {"value": "A lot of training"},
+              {"value": "I do not want to work with AI systems"}
+            ]
+          }
+        }
+      }
+    },
+    {
+      "title": "What is your biggest hope for AI in the admissions process?",
+      "questionItem": {
+        "question": {
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "title": "What is your biggest fear or concern about AI in the workplace?",
+      "questionItem": {
+        "question": {
+          "textQuestion": {}
+        }
+      }
+    },
+    {
+      "title": "What support would help you feel more confident working with AI?",
+      "questionItem": {
+        "question": {
+          "textQuestion": {}
+        }
+      }
+    }
+  ]
+}
