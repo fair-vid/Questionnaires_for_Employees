@@ -19,44 +19,7 @@ The purpose of this repository is to support **transparent, reproducible, and FA
 
 ## 📂 Repository Structure
 
-Questionnaires_for_Employees/
-│
-├── questionnaires/
-│   ├── JSON/                 # Machine-readable questionnaire definitions
-│   ├── CSV/                  # Import-ready CSV questionnaires
-│   ├── DOCX/                 # Textual questionnaires for form converters
-│   ├── XLSForm/              # Survey definitions for ODK/KoboToolbox
-│   └── Typeform_JSON/        # Typeform-compatible JSON templates
-│
-├── data/
-│   ├── sample/               # Synthetic/demo datasets
-│   └── anonymised_real_responses/
-│       └── YYYY_survey_name/
-│           ├── raw_anonymised.csv
-│           ├── metadata.json
-│           └── README.md
-│
-├── tools/
-│   ├── converter_scripts/    # Utilities for converting formats
-│   ├── validation/           # JSON schema and validation scripts
-│   └── examples/             # Guides for importing questionnaires into platforms
-│
-└── docs/
-    ├── methodology/
-    │   ├── anonymisation_guidelines.md
-    │   ├── ethics_statement.md
-    │   └── reproducibility_notes.md
-    │
-    └── publications/
-        ├── references_to_this_repo.md
-        └── methods_appendix_templates.md
 
-
-
-
----
-
-# 📁 Questionnaires_for_Employees/
 ```
 │
 ├── 📂 questionnaires/
