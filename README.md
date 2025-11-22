@@ -56,6 +56,38 @@ Questionnaires_for_Employees/
 
 ---
 
+# 📁 Questionnaires_for_Employees/
+```
+│
+├── 📂 questionnaires/
+│   ├── 📄 JSON/
+│   ├── 📄 CSV/
+│   ├── 📄 DOCX/
+│   ├── 📄 XLSForm/
+│   └── 📄 Typeform_JSON/
+│
+├── 📂 data/
+│   ├── 🧪 sample/
+│   └── 🔐 anonymised_real_responses/
+│       └── 🗂️ YYYY_survey_name/
+│           ├── raw_anonymised.csv
+│           ├── metadata.json
+│           └── README.md
+│
+├── 🛠 tools/
+│   ├── 🔄 converter_scripts/
+│   ├── ✔ validation/
+│   └── 📘 examples/
+│
+└── 📘 docs/
+    ├── 📑 methodology/
+    └── 📑 publications/
+```
+
+
+
+
+
 ## 🎯 Objectives
 
 1. **Provide standardized, reusable questionnaires** for studying employee perceptions of AI.
