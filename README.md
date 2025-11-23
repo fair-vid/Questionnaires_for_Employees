@@ -10,7 +10,7 @@ Below are the Google Forms currently used in the FAIR-VID project.
 ## Employee Attitudes Toward AI 
 
 **Form:**  
-[https://docs.google.com/forms/d/e/1FAIpQLScDd5gDcK6Jt4ResYWYQLL8C68nvqanZ-Xq0YXYpawhwxh5tA/viewform?usp=sharing)
+https://docs.google.com/forms/d/e/1FAIpQLScDd5gDcK6Jt4ResYWYQLL8C68nvqanZ-Xq0YXYpawhwxh5tA/viewform?usp=sharing
 
 **Description:**  
 This form collects perceptions from employees (or people imagining themselves working with students) about the use of AI in student admission processes, including monitoring, transparency, and fairness.
@@ -22,7 +22,7 @@ This form collects perceptions from employees (or people imagining themselves wo
 The anonymised results of the questionnaire are stored in a Google Sheets document:
 
 
-[https://docs.google.com/spreadsheets/d/<YOUR-SHEET-ID>/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GdgewWJayfjBMJ-Vgffi8gS1n3b0D9Tny9SvBMgiJIg/edit?gid=1185809880#gid=1185809880)
+[Results Google Sheets](https://docs.google.com/spreadsheets/d/1GdgewWJayfjBMJ-Vgffi8gS1n3b0D9Tny9SvBMgiJIg/edit?gid=1185809880#gid=1185809880)
 
 
 
