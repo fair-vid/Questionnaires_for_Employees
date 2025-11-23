@@ -17,6 +17,16 @@ This form collects perceptions from employees (or people imagining themselves wo
 
 
 
+## 📊 Results (Google Sheets)
+
+The anonymised results of the questionnaire are stored in a Google Sheets document:
+
+👉 **Results Spreadsheet:**  
+[https://docs.google.com/spreadsheets/d/<YOUR-SHEET-ID>/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GdgewWJayfjBMJ-Vgffi8gS1n3b0D9Tny9SvBMgiJIg/edit?gid=1185809880#gid=1185809880)
+
+
+
+
 ---
 
 
